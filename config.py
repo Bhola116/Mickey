@@ -11,7 +11,7 @@ OWNER_ID = int(getenv("OWNER_ID", 7109918450)
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Soham34:alone@cluster0.lhcdcei.mongodb.net/?")
 SUPPORT_GRP = getenv("SUPPORT_GRP", "Team_Shadow_Group")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "crunchyrollanimeinhindidubb")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "alone_boy_1_k1")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "alone_boy_1_k")
 
 # Random Start Images
 IMG = [
