@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 27353035))
-API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", 5350929381))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Nexa_Verse")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "DadEyeBotz")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Dev_Arora_0981")
+API_ID = int(getenv("API_ID", 28967527)
+API_HASH = getenv("API_HASH", "778fed856ace9a795e3736f51b38f894")
+BOT_TOKEN = getenv("BOT_TOKEN", "7131227075:AAEh1rRWXX5GthG-PQxSn9zukwX98dPhf0I")
+OWNER_ID = int(getenv("OWNER_ID", 7109918450)
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Soham34:alone@cluster0.lhcdcei.mongodb.net/?")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "Team_Shadow_Group")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "crunchyrollanimeinhindidubb")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "alone_boy_1_k1")
 
 # Random Start Images
 IMG = [
