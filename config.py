@@ -10,7 +10,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = int(getenv("OWNER_ID", 7109918450))
 MONGO_URL = getenv("MONGO_URL", None)
 SUPPORT_GRP = getenv("SUPPORT_GRP", "Team_Shadow_Group")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "crunchyrollanimeinhindidubb")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "Crunchyroll_animes_hindi_india_a")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "alone_boy_1_k")
 
 # Random Start Images
